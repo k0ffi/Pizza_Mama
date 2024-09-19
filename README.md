@@ -10,6 +10,10 @@ On y voit l'interface utilisateur principale avec un design accueillant,
 un accès rapide a la section principale telle que le menu des pizzas.
 
 ![Architecture](Menu_pizzasMama.png)
+°Ici, tu peux voir la page du menu des pizzas. Cette section présente une liste des pizzas disponibles, 
+avec des informations sur leurs noms, prix, 
+ingrédients et si elles sont végétariennes ou non. 
+C'est l'interface principale pour les clients souhaitant passer une commande.
 
 ![Architecture](Admin_pizzaMama.png)
 
