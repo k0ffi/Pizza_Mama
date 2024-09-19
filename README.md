@@ -9,12 +9,13 @@ Cela inclut les différentes couches (base de données, API, interface utilisate
 On y voit l'interface utilisateur principale avec un design accueillant, 
 un accès rapide a la section principale telle que le menu des pizzas.
 
-![Architecture](Menu_pizzasMama.png)
+![Menu_pizzas](Menu_pizzasMama.png)
 °Ici, tu peux voir la page du menu des pizzas. Cette section présente une liste des pizzas disponibles, 
 avec des informations sur leurs noms, prix, 
 ingrédients et si elles sont végétariennes ou non. 
 C'est l'interface principale pour les clients souhaitant passer une commande.
 
-![Architecture](Admin_pizzaMama.png)
-
-![Architecture](Gestion_Pizzas.png)
+![Admin](Admin_pizzaMama.png)
+°Cette image montre la page d'administration où les administrateurs peuvent gérer les différentes sections de l'application. Elle inclut des options comme la gestion des pizzas, la gestion des utilisateurs, et d'autres paramètres du site.c'est un Razor page (CRUD).
+![DB](Gestion_Pizzas.png)
+°Cette page Montre les elements contenu dans la Base de donnée . 
