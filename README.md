@@ -6,7 +6,7 @@
 
 ![Architecture](Admin_pizzaMama.png)
 
-![Architecture](Architechture_complet_Pizza_Mama.png)
+![Architecture](Gestion_Pizzas.png)
 
 ![Architecture](Architechture_complet_Pizza_Mama.png)
 
