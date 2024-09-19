@@ -25,4 +25,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.31" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.17" />
   </ItemGroup>
+  
+  <Target Name="ZipDeploy" AfterTargets="Publish">
+    <Exec Command="dotnet publish -c Release -o $(OutputPath)" />
+    <Exec Command="powershell Compress-Archive -Path $(OutputPath)\* -DestinationPath $(OutputPath)\deploy.zip" />
+  </Target>
 </Project>

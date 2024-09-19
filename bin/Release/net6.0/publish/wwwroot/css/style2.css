@@ -1,0 +1,153 @@
+﻿
+body {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/images/menu_background.jpeg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 0px;
+    
+}
+
+    body.homePage {
+        background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/Main_background.jpeg");
+    }
+
+a.homePage {
+    color: #d90429;
+    font-size: 18px;
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    background-color: gray;
+    border-radius: 15px;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+#small_logo{
+    margin-left:35px ;
+    margin-top:25px; 
+}
+h1{
+
+color:white;
+background-color: gray ;
+display : inline ;
+padding : 8px 22px ;
+border-radius  : 15px;
+}
+
+.menu_title{
+    margin-top: 45px  ;
+    margin-bottom: 50px;
+
+}
+h1 {
+    color: white;
+    background-color:gray /*#DD7835*/;
+    display: inline;
+    padding: 8px 22px;
+}
+
+
+.menu_list {
+    margin-left: 50px;
+}
+
+.menu_list_item {
+    font-size: 20px;
+    margin: 30px 0px;
+    
+    
+}
+
+.menu_list_title {
+    color: gray;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 8px;
+    padding: 3px 8px;
+    display: inline-block;
+    opacity:0.6 ; 
+}
+
+.menu_list_price {
+    color: #DD7835;
+    margin-left: 8px;
+}
+
+.menu_list_ingredients {
+    color: #D8D8D8;
+    font-size: 14px;
+    margin-top: 4px;
+    display: block;
+    width:320px ; 
+}
+.menu_list_badge {
+    color: black;
+    background-color: #a7c957;
+    font-size: 9px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 3px 8px;
+    display: inline-block;
+    margin-top: 6px;
+}
+/*-------footerAccueil---------*/
+/* Style général pour le footer */
+footer {
+    background-color: #2c3e50; /* Couleur de fond sombre */
+    color: #ecf0f1; /* Couleur du texte claire */
+    padding: 20px; /* Espacement interne */
+    text-align: center; /* Centrage du texte */
+    font-family: 'Arial', sans-serif; /* Police du texte */
+    border-top: 3px solid #e74c3c; /* Bordure supérieure */
+}
+
+/* Conteneur principal du footer */
+.footer-container {
+    max-width: 1200px; 
+    margin: 0 auto;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+}
+
+/* Style pour le nom */
+.footer-name {
+    font-size: 1.5em; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+}
+
+/* Style pour les informations de contact */
+.footer-info {
+    font-size: 1em; 
+    margin: 5px 0; 
+}
+
+/* Ajouter des styles pour les écrans plus petits */
+@media (max-width: 768px) {
+    footer {
+        padding: 15px;
+    }
+
+    .footer-name {
+        font-size: 1.3em;
+    }
+
+    .footer-info {
+        font-size: 0.9em;
+    }
+}
