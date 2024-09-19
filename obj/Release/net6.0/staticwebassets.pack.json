@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/css/style2.css",
+      "PackagePath": "staticwebassets/css/style2.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/images/Main_background.jpeg",
+      "PackagePath": "staticwebassets/images/Main_background.jpeg"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/images/main_logo.png",
+      "PackagePath": "staticwebassets/images/main_logo.png"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/images/menu_background.jpeg",
+      "PackagePath": "staticwebassets/images/menu_background.jpeg"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/images/small_logo.png",
+      "PackagePath": "staticwebassets/images/small_logo.png"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mario/Desktop/UL/C sharp/pizza_mama/pizza_mama/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.build.pizza_mama.props",
+      "PackagePath": "build\\pizza_mama.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.pizza_mama.props",
+      "PackagePath": "buildMultiTargeting\\pizza_mama.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.pizza_mama.props",
+      "PackagePath": "buildTransitive\\pizza_mama.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.pizza_mama.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

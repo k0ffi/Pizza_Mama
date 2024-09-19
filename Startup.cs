@@ -34,9 +34,10 @@ namespace pizza_mama
 
             // IOC -> Inversion Of Control -> cr�er des instances ou conserver des instances uniques (singleton)
             // DataContextInstance = new DataContext
+            /*services.AddDbContext<DataContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("DefaultConnectionsqLite")));*/
             services.AddDbContext<DataContext>(options =>
-                options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
-
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddRazorPages();
             services.AddControllers(); // utilisation des Controlleurs 
         }
