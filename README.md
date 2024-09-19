@@ -4,7 +4,10 @@
 ses différents composants (backend, frontend, base de données) et comment ils interagissent.
 Cela inclut les différentes couches (base de données, API, interface utilisateur) et les technologies utilisées.
 
-![Architecture](Accueil_PizzaMama.png)
+![Page_acceuil](Accueil_PizzaMama.png)
+°Ceci est une capture d'écran de la page d'accueil du site web  Pizza Mama. 
+On y voit l'interface utilisateur principale avec un design accueillant, 
+un accès rapide a la section principale telle que le menu des pizzas.
 
 ![Architecture](Menu_pizzasMama.png)
 
