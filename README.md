@@ -1,1 +1,1 @@
-![Detail_Prijet](./images/logo.png)
+![Architecture](Architechture_complet_Pizza_Mama.png)
