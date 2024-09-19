@@ -24,3 +24,6 @@ C'est l'interface principale pour les clients souhaitant passer une commande.
 
 ![DB](Gestion_Pizzas.png)
 °Cette page Montre les elements contenu dans la Base de donnée . 
+![API_REST](APIRestPizzas_Mama.png)
+°ce sont les données récupérées  en format json par l'api rest.
+
